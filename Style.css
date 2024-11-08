@@ -96,7 +96,7 @@ footer {
 .imagem-borda {
     display: block;          /* Centraliza a imagem */
     margin: 20px auto;       /* Centraliza horizontalmente */
-    border: 10px solid black;   /* Borda laranja */
+    border: 10px solid  color: #000000;   /* Borda laranja */
     border-radius: 15px;     /* Bordas arredondadas */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* Sombra suave */
     max-width: 100%;         /* Garante que a imagem não ultrapasse a largura da tela */
